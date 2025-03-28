@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sergi! 👋
 
-<!--
-**roviralta/roviralta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate frontend developer with experience in building modern web applications using:
 
-Here are some ideas to get you started:
+- 🟨 JavaScript
+- ⚛️ React
+- 🌐 HTML & CSS
+- 📱 Ionic (for hybrid mobile development)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love creating sleek, responsive, and user-friendly applications while continuously learning and improving my skills.
+
+---
+
+## 📊 GitHub Stats
+
+![Sergi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roviralta&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roviralta&layout=compact&theme=tokyonight)
+
+
+---
+
+## 🌐 My Portfolio
+
+I have developed my own portfolio showcasing my projects and skills. Check it out here:
+
+🔗 [My Portfolio](https://sergiroviralta.netlify.app) 
+
+---
+
+### 📫 Connect with me
+
+- GitHub: [github.com/SergiGitHubUsername](https://github.com/roviralta)
+- LinkedIn: [linkedin.com/in/Sergi](https://linkedin.com/in/sroviralta)
