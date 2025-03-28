@@ -30,5 +30,5 @@ I have developed my own portfolio showcasing my projects and skills. Check it ou
 
 ### 📫 Connect with me
 
-- GitHub: [github.com/SergiGitHubUsername](https://github.com/roviralta)
-- LinkedIn: [linkedin.com/in/Sergi](https://linkedin.com/in/sroviralta)
+- GitHub: [github.com/roviralta](https://github.com/roviralta)
+- LinkedIn: [linkedin.com/in/sroviralta](https://linkedin.com/in/sroviralta)
