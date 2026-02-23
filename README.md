@@ -65,8 +65,14 @@
   <img src="https://streak-stats.demolab.com?user=roviralta&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<div>
-  ## 📅 Contribution Calendar
+<h3 align="left">🔥 My Stats :</h3>
 
-![GitHub Contribution Grid](https://ghchart.rshah.org/roviralta)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=roviralta&theme=dark" height="220" />
+</div>
+
+<h3 align="left">📅 Contribution Calendar</h3>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00bfff/roviralta" />
 </div>
