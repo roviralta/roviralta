@@ -65,5 +65,8 @@
   <img src="https://streak-stats.demolab.com?user=roviralta&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<div>
+  ## 📅 Contribution Calendar
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roviralta&theme=tokyo-night)
+![GitHub Contribution Grid](https://ghchart.rshah.org/roviralta)
+</div>
