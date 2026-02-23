@@ -13,9 +13,11 @@ I love creating sleek, responsive, and user-friendly applications while continuo
 
 ## 📊 GitHub Stats
 
-![Sergi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roviralta&show_icons=true&theme=tokyonight)
+## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roviralta&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&hide_title=true&hide_border=true&bg_color=00000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000)
 
 
 ---
