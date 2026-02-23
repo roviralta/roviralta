@@ -65,4 +65,6 @@
 
 <h3 align="left">📅 Contribution Calendar</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roviralta&theme=tokyo-night&area=true" alt="Contribution Graph" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roviralta&theme=react-dark" alt="GitHub Contribution Grid" />
+</div>
