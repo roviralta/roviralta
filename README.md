@@ -65,4 +65,6 @@
 
 <h3 align="left">📅 Contribution Calendar</h3>
 
-![Snake animation](https://github.com/roviralta/roviralta/blob/main/dist/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://ghchart.rshah.org/00bfff/roviralta" />
+</div>
