@@ -65,3 +65,5 @@
   <img src="https://streak-stats.demolab.com?user=roviralta&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
