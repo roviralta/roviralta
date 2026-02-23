@@ -66,7 +66,7 @@
 <h3 align="left">📅 Contribution Calendar</h3>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/0F111A/roviralta" 
+  <img src="https://ghchart.rshah.org/roviralta" 
        style="background-color:#0F111A; padding:10px; border-radius:5px;" 
        alt="GitHub Contribution Grid" />
 </div>
