@@ -65,6 +65,4 @@
 
 <h3 align="left">📅 Contribution Calendar</h3>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/00bfff/roviralta" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roviralta&theme=tokyo-night&area=true" alt="Contribution Graph" />
