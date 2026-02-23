@@ -66,4 +66,4 @@
 </div>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=roviralta&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=roviralta&show_icons=true&theme=tokyonight)
