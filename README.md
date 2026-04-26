@@ -1,72 +1,92 @@
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV4MTQ4aG9qZDdlYXBsdnc4c3J2dzZ1ZHV3MWw0ejFkY3JicTNjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
-</div>
+<!-- Presentation section -->
+<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Sergi</h3>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sroviralta/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+%26+Trading+Systems;AI+%26+Automation+Enthusiast" />
   </a>
-  <a href="sergirovisu74@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</p>
+
+---
+
+<!-- Bio section -->
+Hey! I'm Sergi 👋 
+I'm a **junior backend developer and automate test engineer** holding a **BSc in Computer Science** and studying a **MSc in Artificial Intelligence** 
+I'm passionate about technology, AI, and solving problems in creative and efficient ways. I enjoy learning, building things from scratch, and working across different stacks and tools. 
+
+
+<!-- Stats section -->
+> 📊 GitHub Stats & Languages
+>
+
+<div align="center">
+  <a href="https://github.com/roviralta?tab=repositories">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=roviralta&show_icons=true&theme=radical"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=roviralta&show_icons=true&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=roviralta&show_icons=true" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/roviralta?tab=repositories">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roviralta&layout=compact&langs_count=8&theme=radical&include_all_commits=true&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roviralta&layout=compact&langs_count=8&theme=vue&include_all_commits=true&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roviralta&layout=compact" />
+    </picture>
   </a>
 </div>
+<br />
+<br />
 
-###
-
-<h1 align="center">Hey there, I'm Sergi Roviralta 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m working as a Junior Java Developer<br>- 📚 I'm currently learning Docker and Kubernetes<br>- ⚡ I'll start a master of Artificial Intelligence</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
+<!-- Tools section -->
+> ⚙️ Tech I use, enjoy, and experiment with:
+>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=roviralta&theme=dark" height="220" />
-</div>
+  <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
+<img alt="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;&nbsp;
+  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
+  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+  <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
+<br />
 
-<h3 align="left">📅 Contribution Calendar</h3>
+<!-- Social media section -->
+> 📬 Reach out to me:
+> 
+<p align="center">
+  <a href="https://www.linkedin.com/roviralta">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+&nbsp;&nbsp;&nbsp;
+  <a href="sergirovisu74@email.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/roviralta">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/roviralta" 
-       style="background-color:#0F111A; padding:10px; border-radius:5px;" 
-       alt="GitHub Contribution Grid" />
-</div>
+<!-- Profile views -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=roviralta&label=Profile%20views&color=0e75b6&style=flat" alt="roviralta" /> 
+</p>
