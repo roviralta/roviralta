@@ -1,15 +1,13 @@
 <!-- Presentation section -->
+<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Sergi</h3>
+
 <p align="center">
-  <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV4MTQ4aG9qZDdlYXBsdnc4c3J2dzZ1ZHV3MWw0ejFkY3JicTNjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" 
-    height="120"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <span style="font-size: 28px; font-weight: 600; vertical-align: middle;">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-    Hi there! I'm Sergi
-  </span>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+%26+Trading+Systems;AI+%26+Automation+Enthusiast" />
+  </a>
 </p>
+
+---
 
 <!-- Bio section -->
 Hey! I'm Sergi 👋
