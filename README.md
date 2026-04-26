@@ -10,8 +10,10 @@
 ---
 
 <!-- Bio section -->
-Hey! I'm Sergi 👋 
-I'm a **junior backend developer and automate test engineer** holding a **BSc in Computer Science** and studying a **MSc in Artificial Intelligence** 
+Hey! I'm Sergi 👋
+
+I'm a **junior backend developer and automate test engineer** holding a **BSc in Computer Science** and studying a **MSc in Artificial Intelligence**.
+
 I'm passionate about technology, AI, and solving problems in creative and efficient ways. I enjoy learning, building things from scratch, and working across different stacks and tools. 
 
 
