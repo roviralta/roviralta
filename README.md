@@ -1,5 +1,8 @@
 <!-- Presentation section -->
-<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Sergi</h3>
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV4MTQ4aG9qZDdlYXBsdnc4c3J2dzZ1ZHV3MWw0ejFkY3JicTNjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+  <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Sergi</h3>
+</div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
